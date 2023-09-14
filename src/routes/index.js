@@ -5,7 +5,7 @@ import {
   } from "react-router-dom";
   
   import Login from '../pages/auth/Login';
-  import Contact from '../components/Contact/index';
+  import Contact from '../pages/LandingPage/component/contact/index';
   import SignUp from '../pages/auth/SignUp';
   import Counter from '../pages/Counter';
   import Home from '../pages/LandingPage/index';
