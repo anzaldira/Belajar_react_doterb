@@ -44,13 +44,13 @@ export function NavbarDefault() {
         className="p-1 font-bold"><a href="/" className="flex items-center">Login</a>
       </Typography>
     </ul>
-  );
+  ); 
 
   return (
     <Navbar className="mx-auto max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4">
       <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
       <div class="sm:flex sm:items-center sm:justify-between text-center">
-      <img 
+      <img   
         alt=""
         className="h-8 mr-3"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AGV_logo.png/800px-AGV_logo.png"/>
