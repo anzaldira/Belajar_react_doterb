@@ -26,7 +26,7 @@ return (
 		top: '-15%',
 		}}>
 
-		<div className="w-full p-5 m-auto bg-white rounded-md shadow-xl shadow-white-600/40 ring ring-2 ring-white-600 lg:max-w-xl">
+		<div className="w-full p-5 m-auto bg-white mt-10 rounded-md shadow-xl shadow-white-600/40 ring ring-2 ring-white-600 lg:max-w-xl">
 		<div className="mb-3 pt-0">
 			<h3 className="text-center text-gray-800 font-bold text-s">Counter App</h3>
 			</div>

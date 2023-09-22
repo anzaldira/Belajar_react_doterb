@@ -3,7 +3,8 @@ import React from 'react';
 export default function Login() {  
     return (
         <>
-            <div className="w-full p-6 m-auto bg-white rounded-md  shadow-xl shadow-red-600/40 ring ring-2 ring-white-600 lg:max-w-xl">
+        <div className="w-full p-5 m-auto bg-white rounded-md mt-10"></div>
+            <div className="w-full p-6 m-auto bg-white mb-10 rounded-md  shadow-xl shadow-blue-1000/100 ring ring-2 ring-white-600 lg:max-w-xl">
             <div className="flex justify-center">
                 <img 
                     alt=""

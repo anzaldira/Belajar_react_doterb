@@ -19,14 +19,14 @@ export function Home() {
  <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center text-sm text-white">NEW</span>
  <div className="mt-4 px-5 pb-5">
    <div className="flex items-center justify-between">
-     <p>
+     <p> 
        <span className="text-3xl font-bold text-slate-900">Tourmodular</span>
        <br></br>
        <span className="text-sm text-slate-900">Helm modular yang sangat aman untuk tur jarak jauh tanpa henti dengan sistem komunikasi DMC terintegrasi.</span>
-     </p>
-   </div>
- </div>
-</div>
+     </p>   
+   </div>  
+ </div>     
+</div> 
 <div className="relative m-10 w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
    <img className="h- rounded-t-lg object-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7UwV0oAIcb_aD3WqSigDhMr_QjTJmIrYrQ&usqp=CAU" alt="product image" />
  <span className="absolute top-0 left-0 w-28 translate-y-4 -translate-x-6 -rotate-45 bg-black text-center text-sm text-white">NEW</span>
@@ -34,7 +34,7 @@ export function Home() {
    <div className="flex items-center justify-between">
      <p>
        <span className="text-3xl font-bold text-slate-900">k3</span>
-       <br></br>
+       <br></br> 
        <span className="text-sm text-slate-900 ">Ikon AGV dirancang untuk kesempurnaan.</span>
      </p>
    </div>
@@ -92,7 +92,8 @@ export function Home() {
      </p>
    </div>
  </div>
- </div>
+ </div> 
+ <button class="rounded-full ...">Save Changes</button>
     </div> 
     </div>
     </div>

@@ -8,7 +8,7 @@ export function Home() {
  <div className="relative mx-auto flex flex-col px-9 sm:max-w-xl md:max-w-screen-xl md:flex-row">
    <div className="my-auto mx-auto mt-5 w-full max-w-xl md:mt-5 mb-8 lg:max-w-screen-xl rounded-lg ">
      <div className="mb-5 lg:mb-0 lg:max-w-lg"></div>
-     <img srcset="https://wallpapercave.com/wp/wp9624090.jpg" alt="image description"/>
+     <img srcset="https://wallpapercave.com/wp/wp9624090.jpg" alt="image description"/> 
     <div class="flex justify-center">    
       <div className="relative m-5 w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
  </div>
@@ -50,7 +50,7 @@ export function Home() {
        <br></br>
        <span className="text-sm text-slate-900 ">Helm Racing untuk balap.</span>
      </p>
-   </div>
+   </div> 
  </div>
 </div><center><hr className="mb-4 h-1.5 w-1/4 bg-gray-600" />
  <h2 className="bg-teal-accent-400 mb-2 inline-block rounded-full px-3 py-px text-lg-20 font-semibold uppercase tracking-wider text-red-900">sesuaikan kebutuhan</h2>

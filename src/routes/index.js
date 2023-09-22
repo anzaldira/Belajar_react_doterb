@@ -9,6 +9,7 @@ import {
   import SignUp from '../pages/auth/SignUp';
   import Counter from '../pages/Counter';
   import Home from '../pages/LandingPage/index';
+  import Products from '../api/Products';
   
   function Router() {
     return (
@@ -19,6 +20,7 @@ import {
             <Route path='/signup' element={<SignUp/>}/>
             <Route path='/counter' element={<Counter/>}/>
             <Route path='/Home' element={<Home/>}/>
+            <Route path='/products' element={<Products/>}/>
           </Routes>
         </BrowserRouter>
   
