@@ -9,7 +9,7 @@ import {
   import SignUp from '../pages/auth/SignUp';
   import Counter from '../pages/Counter';
   import Home from '../pages/LandingPage/index';
-  import Products from '../api/Products';
+  import Products from '../pages/LandingPage/component/shop/index';
   
   function Router() {
     return (
