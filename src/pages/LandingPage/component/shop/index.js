@@ -5,7 +5,7 @@ import {useGetProducts } from '../../../../api/axios';
    function Shop() { 
     const { data: products, isLoading } = useGetProducts();
     if (isLoading) {
-        return (<span>Loading...</span>);
+        return (<center><span>Loading...</span></center>);
     } 
     return ( 
       <div> 
