@@ -14,7 +14,7 @@ import {useGetProducts } from '../../../../api/axios';
         <h2 className="bg-teal-accent-400 mb-2 inline-block"></h2> 
         <hr className="mb-4 h-1.5 w-1/4 bg-green-300"/> 
         </center> 
-        <div class="grid md:grid-cols-4 gap-2 mt-10"> 
+        <div class="grid md:grid-cols-4 gap-3.5 mt-12 ml-2 mr-2"> 
         {products.map((produk) => {
             return ( 
     <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
